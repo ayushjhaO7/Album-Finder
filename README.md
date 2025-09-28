@@ -1,8 +1,11 @@
 # 🎵 Album Finder
 
-A beautiful and interactive Spotify Album Finder built with React and Vite. Search for any artist and discover their complete discography with stunning visual effects and modern UI design.
+A beautiful and interactive Spotify Album Finder built with React and Vite. 
+Search for any artist and discover their complete discography with stunning visual effects and modern UI design.
 
-![Album Finder Demo](https://img.shields.io/badge/React-18.2.0-blue) ![Vite](https://img.shields.io/badge/Vite-5.0.8-646CFF) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.8-7952B3)
+React 18.2.0
+Vite 5.0.8
+Bootstrap 5.3.8
 
 ## ✨ Features
 
